@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+COVID-19 TRACKER using React JS, I used https://disease.sh/ for Covid-19 APIs
+
+check it 👇
+
+Demo 👉 https://covid-19-tracker-1429b.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
